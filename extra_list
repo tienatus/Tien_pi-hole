@@ -5,6 +5,7 @@
 
 #global ad
 0.0.0.0 criteo.com
+0.0.0.0 doubleclick.net
 
 # Communication apps
 
