@@ -3,6 +3,9 @@
 0.0.0.0 admicro.vn
 0.0.0.0 eclick.vn
 
+#global ad
+0.0.0.0 criteo.com
+
 # Communication apps
 
 0.0.0.0 discord.com
